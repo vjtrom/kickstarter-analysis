@@ -1,8 +1,4 @@
 
-![Category](https://github.com/vjtrom/kickstarter-analysis/blob/main/Category%2012-21.png)
-
-![Date](https://github.com/vjtrom/kickstarter-analysis/blob/main/Date%20Created%207-21.png)
-
 # Kickstarting with Excel
 
 ## Overview of Project
