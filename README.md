@@ -48,7 +48,7 @@ Since the data set was relatively large, with over 4,000 records, it was necessa
 When looking at the ‘Theater’ category by launch date, it is clear that the months of May and June have the highest rates of success. Conversely, the rate of success for projects launched in November and December is lower. This is probably due to seasonality, with the impact of year-end holidays and possibly winter weather having a dampening effect on rates of success. The rate of Success peaks in May and June, and then steadily declines over the summer, with a slight uptick in October. All other things being equal, it is best to launch a campaign in late Spring. 
 
 When looking at rates of failure, the results are spread out more evenly by month, which would suggest that some other factors other than month-of-year are involved in determining rates of failure. In addition, the ratio of successful to failed projects is roughly 2:1, and the number of canceled projects relative to Successful/Failed Campaigns is less than 3%.
-
+![Theater Outcomes vs Launch](https://github.com/vjtrom/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 ### What can you conclude about the Outcomes based on Goals?
 
 When looking at the Outcomes Based on Goals in the ‘Plays’ Subcategory, 96% of these have a project goal amount of $25,000 or less. In addition, only 4% of projects have a goal greater than $25,000. It is therefore easier to draw conclusions about plays with $25,000 or less due to the population size. 
