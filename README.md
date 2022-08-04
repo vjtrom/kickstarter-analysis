@@ -56,7 +56,7 @@ When looking at the Outcomes Based on Goals in the ‘Plays’ Subcategory, 96% 
 Of the Plays with a project goal of $25,000 or less, the overall rate of success is 68%. For project goals of $10,000 or less, the rate of success is 70%, and for plays with project goals of less than $5,000, the rate of success is 74%.
 
 This would suggest that all other things being equal, it is best to have a lower project goal in order to achieve a higher rate of funding success.
-
+![Outcomes based on Goals](https://github.com/vjtrom/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 ### What are some limitations of this dataset?
 
 Some of the limitations of the data set include a wide dispersion of data by years (2009 – 2017), where conditions might change from year-to-year, such as economic conditions and public demand for theater projects. In addition, there are different countries with different currencies, which may not be seen as equivalent due to exchange rates and purchasing power. The length of projects, meaning the launch data compared to the deadline, may also be problematic, as certain projects may require a longer lead time, which in term may provide more time for a project to achieve its project goals. 
